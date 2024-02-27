@@ -1,5 +1,5 @@
 # GitCommitSearchExt
-Vscode extension for search keyword in all commit...
+VsCode extension for search keyword in all commit...
 
 ## Usage
 ![Usage](Usage.png)
