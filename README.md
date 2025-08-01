@@ -4,7 +4,7 @@
 
 在Git提交和分支中搜索关键词，具有增强的用户体验和智能缓存功能。
 
-![Usage](https://raw.githubusercontent.com/purpleroc/pics/main/vsext/usage.png)
+![Usage](https://github.com/purpleroc/GitCommitSearchExt/blob/main/Usage.png?raw=true)
 
 ## ✨ What's New in v1.7.0 / v1.7.0 新功能
 
